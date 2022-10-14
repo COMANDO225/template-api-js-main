@@ -39,6 +39,7 @@ Crear un API sobre una lista de musica donde se pueda hacer lo siguiente.
 A nuestra API de canciones vamos agregar un registro y login de usuarios.
 
 - Crear un usuario con los siguientes campos `/api/v1/users => POST`
+![image](https://user-images.githubusercontent.com/51338520/195907270-64519537-c7ca-4899-b8eb-7cd1848616fd.png)
 
 ```json
 {
