@@ -25,3 +25,23 @@ export const getSong = async (req, res) => {
         res.json({ message: "Error al obtener canción causa uu", error });
     }
 }
+
+export const createSong = async (req, res) => {
+
+    try {
+        const { name, artist, album, year, genre, duration } = req.body;
+        const song = await prisma.song.create({
+            data: {
+                name,
+                artist,
+                album,
+                year,
+                genre,
+                duration
+            },
+        });
+        res.status(201).json(song);
+    } catch (error) {
+        res.status(400).json({ message: "Error al crear canción causa", error });
+    }
+}
