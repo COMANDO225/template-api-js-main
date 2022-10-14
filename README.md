@@ -6,6 +6,15 @@ Requirements
 - [ ] Ajuntar fotos de los ejercicios en el README.md
 - [ ] Usar una base de datos Postgres, MySQL o MongoDB
 - [ ] Codigo **ORDENADO** y **LIMPIO** usando buenas practicas
+![image](https://user-images.githubusercontent.com/51338520/195907802-074264e8-6cc4-4c92-89fe-a091eae0c4c9.png)
+![image](https://user-images.githubusercontent.com/51338520/195907943-eff5f263-7b3e-44b1-b0a6-00359ae50349.png)
+![image](https://user-images.githubusercontent.com/51338520/195907486-26b0a9dd-5a42-4412-bd05-a5d2813dbde7.png)
+
+songs
+![image](https://user-images.githubusercontent.com/51338520/195908029-d39eae41-a723-4190-b7e9-06bd1d2962eb.png)
+![image](https://user-images.githubusercontent.com/51338520/195908074-4682b5d7-6bcb-4401-ba79-98109f6f3582.png)
+![image](https://user-images.githubusercontent.com/51338520/195908193-d969b056-6b01-48d5-b1e8-8da7f2cdd669.png)
+
 
 Rules
 
